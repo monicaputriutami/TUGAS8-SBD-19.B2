@@ -26,3 +26,22 @@
 
 ![image](https://user-images.githubusercontent.com/81574673/125059000-0d41bd00-e0d5-11eb-9a0e-a81674737437.png)
 
+![image](https://user-images.githubusercontent.com/81574673/125068007-2a7b8900-e0df-11eb-8046-60d686f031ef.png)
+
+![image](https://user-images.githubusercontent.com/81574673/125068047-37987800-e0df-11eb-8f43-7a0cadc65811.png)
+
+![image](https://user-images.githubusercontent.com/81574673/125068079-4121e000-e0df-11eb-8b5d-f32cdc633224.png)
+
+![image](https://user-images.githubusercontent.com/81574673/125068118-4da63880-e0df-11eb-92bf-d0d078b48df0.png)
+
+![image](https://user-images.githubusercontent.com/81574673/125068158-5eef4500-e0df-11eb-8288-53075fcf3e62.png)
+
+4. Dan hasil dari pemanggilan Web 
+
+![image](https://user-images.githubusercontent.com/81574673/125068301-87773f00-e0df-11eb-86da-270ff9132444.png)
+
+![image](https://user-images.githubusercontent.com/81574673/125068415-a675d100-e0df-11eb-8901-b2d8e04b537f.png)
+
+
+
+
